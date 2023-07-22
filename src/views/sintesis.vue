@@ -2,10 +2,14 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
-
+    .row.justify-content-center.align-items-center.mb-4           
+      .col-lg-auto.my-3
+        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/1.svg', alt='')
+      .col.my-3
+        p(data-aos="fade-down") El presente componente formativo aborda los aspectos generales de los procedimientos operativos de tránsito y transporte como la instalación de puestos de control, aplicación de la norma a través de órdenes de comparendo y las infracciones de tránsito y transporte descritas en el #[b Manual de infracciones] y reglamentadas en el Decreto 1079 de 2015 y la Ley 336 de 1996 las cuales se registran en el informe único de infracción de transporte IUIT. También se detalla el procedimiento de inmovilización por infracciones de tránsito o transporte y se hacen algunas consideraciones frente al uso de equipos o plataformas tecnológicas para el control.
+        p(data-aos="fade-down") Revise el siguiente diagrama que, a manera de resumen, conecta los principales temas y conceptos desarrollados en el componente formativo.
     .row.justify-content-center
-      .col-lg-10.mb-5
+      .col-lg-10.mb-5(data-aos="zoom-in")
         figure
           img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
       .col-auto
