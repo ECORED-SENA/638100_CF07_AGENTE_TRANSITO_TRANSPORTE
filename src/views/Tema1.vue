@@ -9,7 +9,7 @@
 
     .bg4
       .row.justify-content-center.align-items-center.mb-4 
-        .col-lg-3.my-3
+        .col-lg-3.my-3.d-none.d-lg-block
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/5.png', alt='')                 
         .col-lg-9.my-3.j
           .cajon.color-primario.p-4.mb-4.j
@@ -145,7 +145,7 @@
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/10.svg', alt='')                 
             .col.my-3.j
               p(data-aos="fade-down").mb-0 El procedimiento para la realización de un puesto de control se define según la entidad a realizarlo, sin embargo, se describe de manera general el establecido al interior de la dirección de tránsito y transporte como una guía para su realización, en los siguientes puntos:                                  
-        .col-lg-3.my-3
+        .col-lg-3.my-3.d-none.d-lg-block
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/11.png', alt='') 
 
     .tarjeta.tarjeta--gris.p-4.pb-0.mb-5
@@ -164,7 +164,7 @@
                 li 
                   i.fas.fa-chevron-right
                   p.mb-0 Responsable: Comandante del dispositivo.
-          .col-lg-4.col-md-12.order-lg-2
+          .col-lg-4.col-md-8.col-10.order-lg-2
             img(src='@/assets/curso/temas/12.svg', alt='')   
         .row.justify-content-center.align-items-center(titulo="Paso2")
           .col-lg-7.col-md-12.my-3.order-1
@@ -186,7 +186,7 @@
                 li 
                   i.fas.fa-chevron-right
                   p.mb-0 Responsable: Comandante del dispositivo.
-          .col-lg-4.col-md-12.order-lg-2
+          .col-lg-4.col-md-8.col-10.order-lg-2
             img(src='@/assets/curso/temas/13.svg', alt='') 
         .row.justify-content-center.align-items-center(titulo="Paso3")
           .col-lg-7.col-md-12.my-3.order-1
@@ -202,7 +202,7 @@
                 li 
                   i.fas.fa-chevron-right
                   p.mb-0 Responsables: Integrantes puesto de control.
-          .col-lg-4.col-md-12.order-lg-2
+          .col-lg-4.col-md-8.col-10.order-lg-2
             img(src='@/assets/curso/temas/14.svg', alt='') 
         .row.justify-content-center.align-items-center(titulo="Paso4")
           .col-lg-7.col-md-12.my-3.order-1
@@ -215,7 +215,7 @@
                 li 
                   i.fas.fa-chevron-right
                   p.mb-0 Responsable: Integrantes puesto de control.
-          .col-lg-4.col-md-12.order-lg-2
+          .col-lg-4.col-md-8.col-10.order-lg-2
             img(src='@/assets/curso/temas/15.svg', alt='') 
         .row.justify-content-center.align-items-center(titulo="Paso5")
           .col-lg-7.col-md-12.my-3.order-1
@@ -231,7 +231,7 @@
                 li 
                   i.fas.fa-chevron-right
                   p.mb-0 Responsable: Integrantes puesto de control.
-          .col-lg-4.col-md-12.order-lg-2
+          .col-lg-4.col-md-8.col-10.order-lg-2
             img(src='@/assets/curso/temas/16.svg', alt='') 
         .row.justify-content-center.align-items-center(titulo="Paso6")
           .col-lg-7.col-md-12.my-3.order-1
@@ -244,7 +244,7 @@
                 li 
                   i.fas.fa-chevron-right
                   p.mb-0 Responsable: Comandante del dispositivo.
-          .col-lg-4.col-md-12.order-lg-2
+          .col-lg-4.col-md-8.col-10.order-lg-2
             img(src='@/assets/curso/temas/17.svg', alt='') 
         .row.justify-content-center.align-items-center(titulo="Paso7")
           .col-lg-7.col-md-12.my-3.order-1
@@ -257,7 +257,7 @@
                 li 
                   i.fas.fa-chevron-right
                   p.mb-0 Responsable: Comandante del dispositivo.
-          .col-lg-4.col-md-12.order-lg-2
+          .col-lg-4.col-md-8.col-10.order-lg-2
             img(src='@/assets/curso/temas/18.svg', alt='') 
 
     Separador 
@@ -267,7 +267,7 @@
     .row.bg9.align-items-center.pt-3.mb-4
       .col-lg-12.col-12.px-lg-5.px-4.up
         .row.justify-content-center.align-items-center
-          .col-md-6.col-lg-4.mb-4.mb-md-0.up(data-aos="fade-right")
+          .col-md-6.col-lg-4.mb-4.mb-md-0.up.d-none.d-lg-block(data-aos="fade-right")
             img(src='@/assets/curso/temas/20.png', alt='')
           .col-md-11.col-lg-8.mb-4.mb-md-0.up(data-aos="fade-left")
             SlyderF.text-center.pb-4(columnas="col-lg-6")(data-aos="fade-right")

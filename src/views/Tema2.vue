@@ -35,7 +35,7 @@
           p(data-aos="fade-down").mb-0 Con base en lo anterior #[b.tg es necesario entender que en Colombia existe un ordenamiento jurídico que reglamenta el comportamiento de todos y cada uno de los actores viales al igual que normas de transporte de personas o cosas de un punto a otro], por lo cual podemos simplificar este apartado normativo como se ilustra en la siguiente infografía:   
         .col-lg-auto.my-3
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/53.svg', alt='') 
-      img.img-a.img-t.mb-5(data-aos="zoom-in")(src='@/assets/curso/temas/54.svg', alt='')           
+      img.img-a.img-t.mb-5(data-aos="zoom-in")(src='@/assets/curso/temas/54.svg', alt='Esquema gráfico que expone las disposiciones constitucionales y de ley sobre el tránsito y el transporte en Colombia. La síntesis general del esquema gráfico refuerza que "Art. 24. Todo colombiano, con las limitaciones que establezca la ley, tiene derecho a circular libremente por el territorio nacional".')           
       p(data-aos="fade-down").text-center Así las cosas, es importante tener en cuenta que el marco jurídico es extremadamente extenso respecto a temas relacionados con tránsito y el transporte, y son frecuentemente objeto de actualizaciones y ajustes, motivo por el cual es necesario mantenerse informado de las normas y sus actualizaciones.          
 
     Separador 
@@ -52,13 +52,13 @@
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/55.svg', alt='')                 
           .col.my-3.j
             p(data-aos="fade-down").mb-0 Siendo así, los requerimientos que se deben realizar de manera preventiva con los presuntos sujetos implicados en los sucesos de tránsito son aquellos que en el trasegar del ámbito laboral del agente sea sorprendido realizando la acción típica establecida en la norma y este de lugar a la imposición de un comparendo.                              
-      .col-lg-3.my-3
+      .col-lg-3.my-3.d-none.d-lg-block
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/56.png', alt='')    
 
     .row.bg9.align-items-center.pt-3.mb-4
       .col-lg-12.col-12.px-lg-5.px-4.up
         .row.justify-content-center.align-items-center
-          .col-md-6.col-lg-4.mb-4.mb-md-0.up(data-aos="fade-right")
+          .col-md-6.col-lg-4.mb-4.mb-md-0.up.d-none.d-lg-block(data-aos="fade-right")
             img(src='@/assets/curso/temas/57.png', alt='')
           .col-md-11.col-lg-8.mb-4.mb-md-0.up(data-aos="fade-left")
             SlyderF.text-center.pb-4(columnas="col-lg-6")(data-aos="fade-right")
@@ -97,7 +97,7 @@
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2 2.2 Señales corporales
     p(data-aos="fade-down").mb-5 Las señales corporales de la autoridad de tránsito de control operativo, se encuentran enmarcadas jurídicamente en el artículo 116 del Código Nacional de Tránsito (Ley 769 de 2002), el cual establece que las autoridades encargadas de controlar el tránsito deben hacer las señales como se ilustra en la siguiente infografía:
-    img.img-a.img-t.mb-5(data-aos="zoom-in")(src='@/assets/curso/temas/58.svg', alt='')   
+    img.img-a.img-t.mb-5(data-aos="zoom-in")(src='@/assets/curso/temas/58.svg', alt='Se muestra a un agente del tránsito asumiendo tres posturas corporales: Postura 1, Agente con sus brazos extendidos hacia abajo sobre su tronco: indica que está cerrada la circulación y el conductor deberá detenerse. Postura 2, Agente con sus brazos extendidos hacia los lados a la altura de sus hombros y palmas de sus manos hacia abajo: indica que está previniendo el cambio de vía libre a cerrada o viceversa. Postura 3, Agente con sus brazos extendidos hacia los lados formando una U recta y las palmas de sus manos hacia afuera: es una señal ejecutiva para detener el flujo vehicular. Se adicionan dos recuadros informativos así: Recuadro 1, Regular: cuando la autoridad de tránsito se desplaza desde el frente de una calle al de la otra, cada vez que autoriza el paso, ubicándose en la prolongación de la línea del andén, dejando libre la circulación de la otra vía. Recuadro 2, Dirigir: cuando la autoridad Encauza, enfoca o agiliza la movilidad hacia un determinado espacio de la vía. Se realiza en forma eventual, como solución temporal al represamiento o congestión vehicular.')   
     
     Separador 
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
@@ -121,18 +121,18 @@
     .row.bg9.align-items-center.pt-3.mb-4
       .col-lg-12.col-12.px-lg-5.px-4.up
         .row.justify-content-center.align-items-center
-          .col-md-6.col-lg-4.mb-4.mb-md-0.up(data-aos="fade-right")
+          .col-md-6.col-lg-4.mb-4.mb-md-0.up.d-none.d-lg-block(data-aos="fade-right")
             img(src='@/assets/curso/temas/62.png', alt='')
-          .col-md-11.col-lg-8.mb-4.mb-md-0.up(data-aos="fade-left")
+          .col-md-11.col-lg-8.mb-4.mb-md-0.up.pb-2(data-aos="fade-left")
             .tarjeta.tarjeta-verde.bgw.p-4(data-aos="fade-left") 
               SlyderA(tipo="b")
                 .row.justify-content-center.mt-3
                   .col-lg-12
                     .bg12.px-4.brad
                       .row.justify-content-center
-                        .col-1.my-3
+                        .col-auto.my-3
                           .bg13.j.p-2 
-                            h3.mb-0 1                                        
+                            h3.mb-0.px-1 1                                        
                         .col-lg-11.my-3
                           p(data-aos="fade-down") Si el inculpado acepta la comisión de la infracción, podrá:  
                           ul.lista-ul.fa-ul
@@ -146,36 +146,36 @@
                   .col-lg-12
                     .bg12.px-4.brad
                       .row.justify-content-center
-                        .col-1.my-3
+                        .col-auto.my-3
                           .bg13.j.p-2 
-                            h3.mb-0 2                                        
+                            h3.mb-0.px-1  2                                        
                         .col-lg-11.my-3
                           p(data-aos="fade-down").mb-0 Si la multa es rechazada, el inculpado deberá comparecer ante funcionario en audiencia pública para que este decrete las pruebas conducentes que le sean solicitadas y las de oficio que considere útiles. En caso de no comparecer sin justa causa comprobada, la autoridad de tránsito dentro de los diez días siguientes continuará el proceso, entendiéndose que queda vinculado, fallándose en audiencia pública y notificándose en estrados. En caso de ser declarado contraventor, se le impondrá el 100% de la sanción prevista en el Código.
                 .row.justify-content-center.mt-3
                   .col-lg-12
                     .bg12.px-4.brad
                       .row.justify-content-center
-                        .col-1.my-3
+                        .col-auto.my-3
                           .bg13.j.p-2 
-                            h3.mb-0 3                                        
+                            h3.mb-0.px-1 3                                        
                         .col-lg-11.my-3
                           p(data-aos="fade-down").mb-0 Los organismos de tránsito podrán celebrar acuerdos para el recaudo de las multas. Los recursos generados, podrán ser distribuidos entre: a) el organismo de tránsito que ejecuta el recaudo, b) el organismo de tránsito donde se cometió la infracción, y c) el tercero particular o público en quien éste delegue el recaudo, previo descuento del 10% que se destinará específicamente por el organismo de tránsito que conoció la infracción para campañas de educación vial y peatonal, en cualquiera de las siguientes formas:    
                 .row.justify-content-center.mt-3
                   .col-lg-12
                     .bg12.px-4.brad
                       .row.justify-content-center
-                        .col-1.my-3
+                        .col-auto.my-3
                           .bg13.j.p-2 
-                            h3.mb-0 4                                        
+                            h3.mb-0.px-1 4                                        
                         .col-lg-11.my-3
                           p(data-aos="fade-down").mb-0 Pagar el 50% del valor en los cinco días siguientes a la orden de comparendo, siempre y cuando asista a un curso sobre normas de tránsito en un Organismo de Tránsito, Centro de Enseñanza Automovilística o Centro Integral de Atención. Si el curso se realiza ante un organismo de diferente jurisdicción donde se cometió la infracción, a éste se le cancelará un 25% del valor y el excedente, al organismo de tránsito de la jurisdicción donde se cometió la infracción.
                 .row.justify-content-center.mt-3
                   .col-lg-12
                     .bg12.px-4.brad
                       .row.justify-content-center
-                        .col-1.my-3
+                        .col-auto.my-3
                           .bg13.j.p-2 
-                            h3.mb-0 5                                       
+                            h3.mb-0.px-1 5                                       
                         .col-lg-11.my-3
                           p(data-aos="fade-down").mb-0 Cancelar el 75% del valor en los veinte días siguientes a la orden de comparendo, siempre y cuando asista a un curso sobre normas de tránsito en un Organismo de Tránsito, Centro de Enseñanza Automovilística o Centro Integral de atención.  Si el curso se realiza ante un organismo de diferente jurisdicción donde se cometió la infracción, a este se le pagará un 25% del valor y el excedente al organismo de tránsito de la jurisdicción donde se cometió la infracción.    
                                                  

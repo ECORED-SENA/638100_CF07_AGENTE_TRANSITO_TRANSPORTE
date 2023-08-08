@@ -77,18 +77,18 @@
     .row.bg9.align-items-center.pt-3.mb-4
       .col-lg-12.col-12.px-lg-5.px-4.up
         .row.justify-content-center.align-items-center
-          .col-md-6.col-lg-4.mb-4.mb-md-0.up(data-aos="fade-right")
+          .col-md-6.col-lg-4.mb-4.mb-md-0.up.d-none.d-lg-block(data-aos="fade-right")
             img(src='@/assets/curso/temas/38.png', alt='')
-          .col-md-11.col-lg-8.mb-4.mb-md-0.up(data-aos="fade-left")
+          .col-md-11.col-lg-8.mb-4.mb-md-0.up.pb-2(data-aos="fade-left")
             .tarjeta.tarjeta-verde.bgw.p-4(data-aos="fade-left") 
               SlyderA(tipo="b")
                 .row.justify-content-center.mt-3
                   .col-lg-7.mb-4.mb-md-0.my-3.order-1
                     .bg12.px-4.brad
                       .row.justify-content-center
-                        .col-2.my-3
+                        .col-auto.my-3
                           .bg13.j.p-2 
-                            h3.mb-0 1                                        
+                            h3.mb-0.px-1 1                                        
                         .col-lg-10.my-3
                           p(data-aos="fade-down").mb-0 Cuando se compruebe que el equipo no cumple con las condiciones de homologación establecidas por la autoridad competente, caso en el cual se ordenará la cancelación de la matrícula o registro correspondiente. 
                   .col-lg-5.my-3.order-lg-2
@@ -97,9 +97,9 @@
                   .col-lg-7.mb-4.mb-md-0.my-3.order-1
                     .bg12.px-4.brad
                       .row.justify-content-center
-                        .col-2.my-3
+                        .col-auto.my-3
                           .bg13.j.p-2 
-                            h3.mb-0 2                                        
+                            h3.mb-0.px-1 2                                        
                         .col-lg-10.my-3
                           p(data-aos="fade-down").mb-0 Cuando se trate de equipos al servicio de empresas de transporte cuya habilitación y permiso de operación, licencia, registro o matrícula se les haya suspendido o cancelado, salvo las excepciones expresamente establecidas en las disposiciones respectivas. 
                   .col-lg-5.my-3.order-lg-2
@@ -108,9 +108,9 @@
                   .col-lg-7.mb-4.mb-md-0.my-3.order-1
                     .bg12.px-4.brad
                       .row.justify-content-center
-                        .col-2.my-3
+                        .col-auto.my-3
                           .bg13.j.p-2 
-                            h3.mb-0 3                                      
+                            h3.mb-0.px-1 3                                      
                         .col-lg-10.my-3
                           p(data-aos="fade-down").mb-0 Cuando se compruebe la inexistencia o alteración de los documentos que sustentan la operación del equipo y sólo por el tiempo requerido para clarificar los hechos. 
                   .col-lg-5.my-3.order-lg-2
@@ -119,9 +119,9 @@
                   .col-lg-7.mb-4.mb-md-0.my-3.order-1
                     .bg12.px-4.brad
                       .row.justify-content-center
-                        .col-2.my-3
+                        .col-auto.my-3
                           .bg13.j.p-2 
-                            h3.mb-0 4                                      
+                            h3.mb-0.px-1 4                                      
                         .col-lg-10.my-3
                           p(data-aos="fade-down").mb-0 Por orden de autoridad judicial. 
                   .col-lg-5.my-3.order-lg-2
@@ -130,8 +130,9 @@
                   .col-lg-7.mb-4.mb-md-0.my-3.order-1
                     .bg12.px-4.brad
                       .row.justify-content-center
-                        .col-2.my-3
+                        .col-auto.my-3
                           .bg13.j.p-2 
+                            h3.mb-0.px-1 
                             h3.mb-0 5                                     
                         .col-lg-10.my-3
                           p(data-aos="fade-down").mb-0 Cuando se compruebe que el equipo no reúne las condiciones técnico-mecánicas requeridas para su operación, o preste un servicio no autorizado. En este último caso, el vehículo será inmovilizado por hasta de tres meses y, si reincide, adicionalmente multa de cinco a veinte salarios mínimos mensuales vigentes. 
@@ -141,8 +142,9 @@
                   .col-lg-7.mb-4.mb-md-0.my-3.order-1
                     .bg12.px-4.brad
                       .row.justify-content-center
-                        .col-2.my-3
+                        .col-auto.my-3
                           .bg13.j.p-2 
+                            h3.mb-0.px-1 
                             h3.mb-0 6                                     
                         .col-lg-10.my-3
                           p(data-aos="fade-down").mb-0 Cuando se compruebe que el equipo excede los límites permitidos sobre dimensiones, peso o carga. 
@@ -152,8 +154,9 @@
                   .col-lg-7.mb-4.mb-md-0.my-3.order-1
                     .bg12.px-4.brad
                       .row.justify-content-center
-                        .col-2.my-3
+                        .col-auto.my-3
                           .bg13.j.p-2 
+                            h3.mb-0.px-1 
                             h3.mb-0 7                                     
                         .col-lg-10.my-3
                           p(data-aos="fade-down").mb-0 Cuando se detecte que el equipo es utilizado para el transporte de mercancías presuntamente de contrabando. En estos eventos, surtida la inmovilización, se deberá dejar el equipo a disposición de la administración aduanera para que adelante los procedimientos de su competencia. 
@@ -163,9 +166,9 @@
                   .col-lg-7.mb-4.mb-md-0.my-3.order-1
                     .bg12.px-4.brad
                       .row.justify-content-center
-                        .col-2.my-3
+                        .col-auto.my-3
                           .bg13.j.p-2 
-                            h3.mb-0 8                                      
+                            h3.mb-0.px-1 8                                      
                         .col-lg-10.my-3
                           p(data-aos="fade-down").mb-0 Cuando se detecte que el equipo es utilizado para el transporte irregular de narcóticos o de sus componentes, caso en el cual deberá ponerse a disposición de la autoridad judicial competente en forma inmediata que decidirá sobre su devolución. 
                   .col-lg-5.my-3.order-lg-2

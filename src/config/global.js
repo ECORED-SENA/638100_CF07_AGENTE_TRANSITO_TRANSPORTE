@@ -254,7 +254,7 @@ export default {
     },
     {
       referencia:
-        'Ministerio de Transporte (2015). <i>Manual de señalización vial. Dispositivos uniformes para la regulación del tránsito en calles, carreteras y ciclorrutas de Colombia</i>.',
+        'Ministerio de Transporte (2015). Manual de señalización vial. Dispositivos uniformes para la regulación del tránsito en calles, carreteras y ciclorrutas de Colombia.',
       link:
         'https://www.mintransporte.gov.co/documentos/29/manuales-de-senalizacion-vial/',
     },
@@ -266,7 +266,7 @@ export default {
     },
     {
       referencia:
-        'Ministerio de Transporte. (2020) Resolución 20203040003785 de 2020 []. Por la cual se adecúa la reglamentación para la adopción del Informe Único de Infracciones al Transporte “IUIT” y se dictan otras disposiciones”. 26 de mayo de 2020.',
+        'Ministerio de Transporte. (2020) Resolución 20203040003785 de 2020. Por la cual se adecúa la reglamentación para la adopción del Informe Único de Infracciones al Transporte “IUIT” y se dictan otras disposiciones”. 26 de mayo de 2020.',
       link:
         'http://www.nuevalegislacion.com/files/susc/cdj/conc/r_mt_3785_20.pdf',
     },
@@ -278,7 +278,7 @@ export default {
     },
     {
       referencia:
-        'Ramos Enríquez, H., & Quiroga Amaya, L. (2017). <i>Investigación de Accidentes de Tránsito en Colombia</i>. Imprenta Nacional.',
+        'Ramos Enríquez, H., & Quiroga Amaya, L. (2017). Investigación de Accidentes de Tránsito en Colombia. Imprenta Nacional.',
     },
   ],
   creditos: [
@@ -341,8 +341,20 @@ export default {
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
+          nombre: 'Wilson Andrés Arenales Cáceres',
+          cargo: 'Storyboard e Ilustración',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Carlos Eduardo Garavito Parada',
+          cargo: 'Animador y Productor Multimedia',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Camilo Andrés Bolaño Rey',
+          cargo: 'Locución',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },

@@ -9,7 +9,7 @@
 
 
     .row.justify-content-center.align-items-center.mb-4 
-      .col-lg-4.my-3
+      .col-lg-4.my-3.d-none.d-lg-block
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/63.png', alt='')                 
       .col-lg-8
         p(data-aos="fade-down") Para desarrollar este tema #[b.tg es necesario precisar conceptos como “comparendo” o “infracción”, definidos en el artículo 2 de la Ley 769 de 2002:]
@@ -162,43 +162,43 @@
         p(data-aos="fade-down").mb-5 A continuación, reconozca las entidades del sector público asociadas al servicio del transporte, según el decreto 1079 del 2015:
         AcordionA(tipo="b" clase-tarjeta="tarjeta bg16")
           .row.justify-content-center(titulo="Instituto Nacional de Vías - Invías")
-            .col.order-1
+            .col.my-3.order-1
               p Ejecución de políticas, estrategias, planes, programas y proyectos de la infraestructura no concesionada de la Red Vial Nacional de carreteras primaria y terciaria, férrea, fluvial y de infraestructura marítima.
-            .col-lg-auto.order-lg-2
+            .col-lg-auto.my-3.order-lg-2
               img.img-a.img-t(src='@/assets/curso/temas/68.png', alt='')  
           .row.justify-content-center(titulo="Agencia Nacional de Infraestructura")
-            .col.order-1
+            .col.my-3.order-1
               p Planear, coordinar, estructurar, contratar, ejecutar, administrar y evaluar proyectos de concesiones y otras formas de Asociación Público Privada (APP) para el diseño, construcción, mantenimiento, operación, administración y/o explotación de la infraestructura pública de transporte.  
-            .col-lg-auto.order-lg-2
+            .col-lg-auto.my-3.order-lg-2
               img.img-a.img-t(src='@/assets/curso/temas/69.png', alt='')
           .row.justify-content-center(titulo="Aeronáutica Civil - Aerocivil")
-            .col.order-1
+            .col.my-3.order-1
               p Garantizar el desarrollo de la aviación civil y de la administración del espacio aéreo en condiciones de seguridad y eficiencia.
-            .col-lg-auto.order-lg-2
+            .col-lg-auto.my-3.order-lg-2
               img.img-a.img-t(src='@/assets/curso/temas/70.png', alt='')  
           .row.justify-content-center(titulo="Superintendencia de puertos y transporte")
-            .col.order-1
+            .col.my-3.order-1
               p Inspección y vigilancia que le corresponden al Presidente de la República como suprema autoridad administrativa en materia de puertos.
-            .col-lg-auto.order-lg-2
+            .col-lg-auto.my-3.order-lg-2
               img.img-a.img-t(src='@/assets/curso/temas/71.png', alt='')
           .row.justify-content-center(titulo="Unidad de Planeación de Infraestructura de Transporte - UPIT")
-            .col.order-1
+            .col.my-3.order-1
               p Planear el desarrollo de la infraestructura de transporte para promover la competitividad, conectividad, movilidad y desarrollo del territorio nacional en materia de infraestructura de transporte.
-            .col-lg-auto.order-lg-2
+            .col-lg-auto.my-3.order-lg-2
               img.img-a.img-t(src='@/assets/curso/temas/72.png', alt='')  
           .row.justify-content-center(titulo="Agencia Nacional de Seguridad Vial -ANSV")
-            .col.order-1
+            .col.my-3.order-1
               p Planificación, articulación y gestión de la seguridad vial del país. Seguimiento y control de estrategias, planes y acciones dirigidos al cumplimiento de objetivos de las políticas de seguridad vial del Gobierno en todo el territorio nacional.
-            .col-lg-auto.order-lg-2
+            .col-lg-auto.my-3.order-lg-2
               img.img-a.img-t(src='@/assets/curso/temas/73.png', alt='')       
               
     p(data-aos="fade-down").mb-5 Dentro de la historia colombiana, el tema del transporte es un aspecto sustancial para la economía, la producción y el servicio público de movilidad, cuya responsabilidad se desarrolla en torno a los siguientes modos de transporte: 
     .row.bg9.align-items-center.pt-3.mb-4
       .col-lg-12.col-12.px-lg-5.px-4.up
         .row.justify-content-center.align-items-center
-          .col-md-6.col-lg-4.mb-4.mb-md-0.up(data-aos="fade-right")
+          .col-md-6.col-lg-4.mb-4.mb-md-0.up.d-none.d-lg-block(data-aos="fade-right")
             img(src='@/assets/curso/temas/74.png', alt='')
-          .col-md-11.col-lg-8.mb-4.mb-md-0.up(data-aos="fade-left")
+          .col-md-11.col-lg-8.mb-4.mb-md-0.up.pb-2(data-aos="fade-left")
             .tarjeta.tarjeta-verde.bgw.p-4.py-3(data-aos="fade-left") 
               SlyderA(tipo="b")
                 .row.justify-content-center
@@ -276,16 +276,16 @@
                     ul.lista-ul.fa-ul
                       li 
                         i.fas.fa-angle-right.c1
-                        p.mb-0 Teleférico
+                        p.mb-0 Teleférico.
                       li 
                         i.fas.fa-angle-right.c1
-                        p.mb-0 Cable aéreo
+                        p.mb-0 Cable aéreo.
                       li 
                         i.fas.fa-angle-right.c1
-                        p.mb-0 Cable remolcador
+                        p.mb-0 Cable remolcador.
                       li 
                         i.fas.fa-angle-right.c1
-                        p.mb-0 Funicular  
+                        p.mb-0 Funicular.  
                   .col-lg-5.my-3.order-lg-2
                     img.img-a.img-t(src='@/assets/curso/temas/79.png', alt='')
 
@@ -302,7 +302,7 @@
               p(data-aos="fade-down").mb-0 Es vital reconocer la existencia de regulación especial para cada tipo de transporte terrestre automotor, a partir del Decreto 1079 de 2015, por medio del cual se expide el Decreto Único Reglamentario del Sector Transporte, que compila las normas reglamentarias preexistentes.
               
     .row.justify-content-center.align-items-center.mb-4           
-      .col-lg-4.my-3
+      .col-lg-4.my-3.d-none.d-lg-block
         img.img-a.img-t(src='@/assets/curso/temas/81.png', alt='')
       .col-lg-8.my-3 
         p(data-aos="fade-down") Esta norma se encuentra dividida en tres libros: el primero, estructura del sector transporte, presenta el objeto de la norma y las entidades que trabajan en las diferentes áreas del sector. El segundo, aborda toda la reglamentación de los diferentes servicios públicos de transporte terrestre automotor: colectivo de pasajeros, masivo de pasajeros, individual de pasajeros en vehículos taxi, pasajeros por carretera, mixto, especial, y carga, divididos en capítulos.     
@@ -351,9 +351,9 @@
     .row.bg9.align-items-center.pt-3.mb-4
       .col-lg-12.col-12.px-lg-5.px-4.up
         .row.justify-content-center.align-items-center
-          .col-md-6.col-lg-4.mb-4.mb-md-0.up(data-aos="fade-right")
+          .col-md-6.col-lg-4.mb-4.mb-md-0.up.d-none.d-lg-block(data-aos="fade-right")
             img(src='@/assets/curso/temas/83.png', alt='')
-          .col-md-11.col-lg-8.mb-4.mb-md-0.up(data-aos="fade-left")
+          .col-md-11.col-lg-8.mb-4.mb-md-0.up.pb-2(data-aos="fade-left")
             .tarjeta.tarjeta-verde.bgw.p-4.py-3(data-aos="fade-left") 
               SlyderA(tipo="b")
                 .row.justify-content-center
@@ -380,7 +380,7 @@
                   .col-lg-5.my-3.order-lg-2
                     img.img-a.img-t(src='@/assets/curso/temas/84.png', alt='')   
                 .row.justify-content-center
-                  h4.tg 
+                  h4.tg Durante 
                   .col-lg-7.mb-4.mb-md-0.my-3.order-1
                     p Diligenciar la Orden de Comparendo Único Nacional, que insta al presunto infractor a presentarse ante la autoridad de tránsito competente dentro de los cinco (5) días hábiles siguientes. 
 
