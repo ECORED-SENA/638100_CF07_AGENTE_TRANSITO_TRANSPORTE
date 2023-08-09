@@ -388,7 +388,7 @@
                   .col-lg-5.my-3.order-lg-2
                     img.img-a.img-t(src='@/assets/curso/temas/85.png', alt='')      
                 .row.justify-content-center
-                  h4.tg 
+                  h4.tg Después, si el presunto infractor acepta la comisión de la infracción 
                   .col-lg-7.mb-4.mb-md-0.my-3.order-1
                     ul.lista-ul.fa-ul
                       li 
@@ -400,7 +400,7 @@
                   .col-lg-5.my-3.order-lg-2
                     img.img-a.img-t(src='@/assets/curso/temas/86.png', alt='')   
                 .row.justify-content-center
-                  h4.tg 
+                  h4.tg Después, si el presunto infractor no acepta la comisión de la infracción 
                   .col-lg-7.mb-4.mb-md-0.my-3.order-1
                     ul.lista-ul.fa-ul
                       li 
