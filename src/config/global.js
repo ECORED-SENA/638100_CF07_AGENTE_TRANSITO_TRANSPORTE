@@ -194,7 +194,8 @@ export default {
       referencia:
         'Ministerio de Transporte. (2019). Resolución 4247 de 2019. Por la cual se adopta el formato para el Informe Único de Infracciones al Transporte. 12 de septiembre de 2019.',
       tipo: 'Resolución',
-      link: 'https://www.runt.com.co/node/423896',
+      link:
+        'https://www.runt.com.co/sites/default/files/normas/Resoluci%C3%B3n%204247%20de%202019%20MinTransporte%20adopta%20el%20formato%20para%20el%20Informe%20%C3%9Anico%20de%20Infracciones%20al%20Transporte.pdf',
     },
     {
       tema: 'Aplicación de la norma en tránsito y transporte',

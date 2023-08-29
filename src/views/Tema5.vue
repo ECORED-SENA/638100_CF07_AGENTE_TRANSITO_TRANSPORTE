@@ -52,7 +52,7 @@
       .col-lg-4.col-md-6.mb-4.up
         .tarjeta.h-100.p-4.bg11
           img.mb-3.inv(src='@/assets/curso/temas/31.svg', alt='' style="width: 90px;")
-          p También tienen acceso a internet, ubicación GPS y una impresora integrada, elementos que garantizarán adelantar el procedimiento de imposición de comparendos tanto de tránsito como de transporte público, de forma 100% digital. 
+          p También tienen acceso a internet, ubicación GPS y una impresora integrada, elementos que garantizarán adelantar el procedimiento de imposición de comparendos tanto de tránsito como de transporte público, de forma 100 % digital. 
       .col-lg-4.col-md-6.mb-4.up  
         .tarjeta.h-100.p-4.bg11
           img.mb-3.inv(src='@/assets/curso/temas/31.svg', alt='' style="width: 90px;")

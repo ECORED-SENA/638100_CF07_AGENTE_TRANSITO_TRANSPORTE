@@ -185,7 +185,7 @@
           .col-lg-auto.my-3
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/47.svg', alt='')                 
           .col.my-3.j
-            p(data-aos="fade-down").mb-0 El traslado del vehículo deberá realizarse en un medio idóneo y seguro que garantice que no se seguirá cometiendo la infracción de dio lugar a la inmovilización, para esto se llamará un servicio de grúa autorizada por la autoridad de tránsito de la jurisdicción quienes levantarán el vehículo del lugar de los hechos y lo llevarán al patio autorizado.                                
+            p(data-aos="fade-down").mb-0 El traslado del vehículo deberá realizarse en un medio idóneo y seguro que garantice que no se seguirá cometiendo la infracción que dio lugar a la inmovilización, para esto se llamará un servicio de grúa autorizada por la autoridad de tránsito de la jurisdicción quienes levantarán el vehículo del lugar de los hechos y lo llevarán al patio autorizado.                                
       .col-lg-3.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/48.png', alt='')                              
 </template>

@@ -39,7 +39,7 @@
           li
             .lista-ol--cuadro__vineta             
               span.text-bold 4 
-            p.mb-0 Ordenes de comparendo en flagrancia.
+            p.mb-0 Órdenes de comparendo en flagrancia.
           li
             .lista-ol--cuadro__vineta             
               span.text-bold 5 
@@ -127,7 +127,7 @@
                 td.w-300 Clasificación de infracciones
                 td Algunas infracciones
               tr
-                td A. Infracciones en que incurren los peatones y que dan lugar a la imposición de un (1) salario mínimo legal diario vigente:                
+                td F. Infracciones en que incurren los peatones y que dan lugar a la imposición de un (1) salario mínimo legal diario vigente:                
                 td De la F01 a la F12.                
                 td F.01. Invadir la zona destinada al tránsito de vehículos, transitar en esta en patines, monopatines, patinetas o similares.<br> F.09. Subirse o bajarse de los vehículos, estando estos en movimiento, cualquiera que sea la operación o maniobra que estén realizando.<br> F.10. Transitar por los túneles, puentes y viaductos de las vías férreas.         
               tr
@@ -213,7 +213,7 @@
                         p.mb-0 Individual de pasajeros (taxis).
                       li 
                         i.fas.fa-angle-right.c1
-                        p.mb-0 Pasajeros por carretera
+                        p.mb-0 Pasajeros por carretera.
                       li 
                         i.fas.fa-angle-right.c1
                         p.mb-0 Servicios públicos generales de transporte (pasajeros, carga, especial, otros).  
@@ -393,10 +393,10 @@
                     ul.lista-ul.fa-ul
                       li 
                         i.fas.fa-angle-right.c1
-                        p.mb-0 Pagar el 50% del valor de la multa dentro de los cinco días hábiles siguientes a la orden de comparendo y asistir un curso sobre normas de tránsito o, 
+                        p.mb-0 Pagar el 50 % del valor de la multa dentro de los cinco días hábiles siguientes a la orden de comparendo y asistir un curso sobre normas de tránsito o, 
                       li 
                         i.fas.fa-angle-right.c1
-                        p.mb-0 Pagar el 75% del valor de la multa, si paga entre el día 6 y 20 siguientes a la orden de comparendo, y asistir a un curso sobre normas de tránsito.   
+                        p.mb-0 Pagar el 75 % del valor de la multa, si paga entre el día 6 y 20 siguientes a la orden de comparendo, y asistir a un curso sobre normas de tránsito.   
                   .col-lg-5.my-3.order-lg-2
                     img.img-a.img-t(src='@/assets/curso/temas/86.png', alt='')   
                 .row.justify-content-center

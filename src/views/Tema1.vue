@@ -26,7 +26,7 @@
       h2 1.1 Conceptos, elementos, características y tipos             
     p(data-aos="fade-down").mb-5 El #[b.tg Manual de señalización vial] en el capítulo 8 establece la señalización de calles y carreteras afectadas por eventos especiales de tránsito diferentes a obras en la vía, los cuales se clasifican como se muestra en la tabla a continuación:  
     .row.justify-content-center.mb-5     
-      .col-lg-10(data-aos="fade-down") 
+      .col-lg-10.up(data-aos="fade-down") 
         .titulo-sexto.color-acento-contenido
           h5 Tabla 1.
           span Clasificación de obras en la vía
@@ -302,9 +302,11 @@
 </template>
 
 <script>
+import LineaTiempoC from '@/components/LineaTiempoC.vue'
+import SlyderF from '@/components/SlyderF.vue'
 export default {
   name: 'Tema1',
-  components: {},
+  components: { SlyderF, LineaTiempoC },
   data: () => ({
     // variables de vue
   }),

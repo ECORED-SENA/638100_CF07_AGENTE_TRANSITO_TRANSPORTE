@@ -32,11 +32,11 @@
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/52.svg', alt='Esquema piramidal con tres niveles que expone el orden jerárquico de las normas, así: Primer nivel o nivel superior: Constitución política y tratados internacionales. Segundo nivel o nivel medio: Decretos legislativos, que vincula leyes orgánicas, ordinarias, reglamentos de congreso, decretos de urgencia. Tercer nivel o nivel inferior: Presidenciales como Decreto supremo, resolución suprema, resoluciones ministeriales, directoriales, jefatoriales, ordenanzas, acuerdos, sentencias.')
       .row.justify-content-center
         .col.my-3
-          p(data-aos="fade-down").mb-0 Con base en lo anterior #[b.tg es necesario entender que en Colombia existe un ordenamiento jurídico que reglamenta el comportamiento de todos y cada uno de los actores viales al igual que normas de transporte de personas o cosas de un punto a otro], por lo cual podemos simplificar este apartado normativo como se ilustra en la siguiente infografía:   
+          p(data-aos="fade-down").mb-0 Con base en lo anterior, #[b.tg es necesario entender que en Colombia existe un ordenamiento jurídico que reglamenta el comportamiento de todos y cada uno de los actores viales, al igual que normas de transporte de personas o cosas de un punto a otro], por lo cual podemos simplificar este apartado normativo como se ilustra en la siguiente infografía:   
         .col-lg-auto.my-3
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/53.svg', alt='') 
       img.img-a.img-t.mb-5(data-aos="zoom-in")(src='@/assets/curso/temas/54.svg', alt='Esquema gráfico que expone las disposiciones constitucionales y de ley sobre el tránsito y el transporte en Colombia. La síntesis general del esquema gráfico refuerza que "Art. 24. Todo colombiano, con las limitaciones que establezca la ley, tiene derecho a circular libremente por el territorio nacional".')           
-      p(data-aos="fade-down").text-center Así las cosas, es importante tener en cuenta que el marco jurídico es extremadamente extenso respecto a temas relacionados con tránsito y el transporte, y son frecuentemente objeto de actualizaciones y ajustes, motivo por el cual es necesario mantenerse informado de las normas y sus actualizaciones.          
+      p(data-aos="fade-down") Así las cosas, es importante tener en cuenta que el marco jurídico es extremadamente extenso respecto a temas relacionados con tránsito y el transporte, y son frecuentemente objeto de actualizaciones y ajustes, motivo por el cual es necesario mantenerse informado de las normas y sus actualizaciones.          
 
     Separador 
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
@@ -51,9 +51,10 @@
           .col-lg-auto.my-3
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/55.svg', alt='')                 
           .col.my-3.j
-            p(data-aos="fade-down").mb-0 Siendo así, los requerimientos que se deben realizar de manera preventiva con los presuntos sujetos implicados en los sucesos de tránsito son aquellos que en el trasegar del ámbito laboral del agente sea sorprendido realizando la acción típica establecida en la norma y este de lugar a la imposición de un comparendo.                              
+            p(data-aos="fade-down").mb-0 Siendo así, los requerimientos que se deben realizar de manera preventiva con los presuntos sujetos implicados en los sucesos de tránsito son aquellos que en el trasegar del ámbito laboral del agente sea sorprendido realizando la acción típica establecida en la norma y este de lugar a la imposición de un comparendo.  
       .col-lg-3.my-3.d-none.d-lg-block
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/56.png', alt='')    
+    p(data-aos="fade-down").mb-5 En cualquier caso, a todo implicado en un suceso de contravención al tránsito debe realizársele el procedimiento que se describe a continuación, según el artículo 135 del Código Nacional de Tránsito Terrestre:”, tal como se observa en el diseño instruccional.
 
     .row.bg9.align-items-center.pt-3.mb-4
       .col-lg-12.col-12.px-lg-5.px-4.up
@@ -138,10 +139,10 @@
                           ul.lista-ul.fa-ul
                             li 
                               i.fas.fa-chevron-right
-                              p.mb-0 Pagar el 100% del valor de la multa dentro de los tres días hábiles siguientes a la orden de comparendo, sin necesidad de otra actuación administrativa. 
+                              p.mb-0 Pagar el 100 % del valor de la multa dentro de los tres días hábiles siguientes a la orden de comparendo, sin necesidad de otra actuación administrativa. 
                             li 
                               i.fas.fa-chevron-right
-                              p.mb-0 Cancelar el 50% del valor de la multa al organismo de tránsito y 25% al centro integral de atención al cual estará obligado a ir para tomar un curso en la escuela que allí funciona sobre las normas de tránsito.                              
+                              p.mb-0 Cancelar el 50 % del valor de la multa al organismo de tránsito y 25 % al centro integral de atención al cual estará obligado a ir para tomar un curso en la escuela que allí funciona sobre las normas de tránsito.                              
                 .row.justify-content-center.mt-3
                   .col-lg-12
                     .bg12.px-4.brad
@@ -150,7 +151,7 @@
                           .bg13.j.p-2 
                             h3.mb-0.px-1  2                                        
                         .col-lg-11.my-3
-                          p(data-aos="fade-down").mb-0 Si la multa es rechazada, el inculpado deberá comparecer ante funcionario en audiencia pública para que este decrete las pruebas conducentes que le sean solicitadas y las de oficio que considere útiles. En caso de no comparecer sin justa causa comprobada, la autoridad de tránsito dentro de los diez días siguientes continuará el proceso, entendiéndose que queda vinculado, fallándose en audiencia pública y notificándose en estrados. En caso de ser declarado contraventor, se le impondrá el 100% de la sanción prevista en el Código.
+                          p(data-aos="fade-down").mb-0 Si la multa es rechazada, el inculpado deberá comparecer ante funcionario en audiencia pública para que este decrete las pruebas conducentes que le sean solicitadas y las de oficio que considere útiles. En caso de no comparecer sin justa causa comprobada, la autoridad de tránsito dentro de los diez días siguientes continuará el proceso, entendiéndose que queda vinculado, fallándose en audiencia pública y notificándose en estrados. En caso de ser declarado contraventor, se le impondrá el 100 % de la sanción prevista en el Código.
                 .row.justify-content-center.mt-3
                   .col-lg-12
                     .bg12.px-4.brad
@@ -159,7 +160,7 @@
                           .bg13.j.p-2 
                             h3.mb-0.px-1 3                                        
                         .col-lg-11.my-3
-                          p(data-aos="fade-down").mb-0 Los organismos de tránsito podrán celebrar acuerdos para el recaudo de las multas. Los recursos generados, podrán ser distribuidos entre: a) el organismo de tránsito que ejecuta el recaudo, b) el organismo de tránsito donde se cometió la infracción, y c) el tercero particular o público en quien éste delegue el recaudo, previo descuento del 10% que se destinará específicamente por el organismo de tránsito que conoció la infracción para campañas de educación vial y peatonal, en cualquiera de las siguientes formas:    
+                          p(data-aos="fade-down").mb-0 Los organismos de tránsito podrán celebrar acuerdos para el recaudo de las multas. Los recursos generados, podrán ser distribuidos entre: a) el organismo de tránsito que ejecuta el recaudo, b) el organismo de tránsito donde se cometió la infracción, y c) el tercero particular o público en quien éste delegue el recaudo, previo descuento del 10 % que se destinará específicamente por el organismo de tránsito que conoció la infracción para campañas de educación vial y peatonal, en cualquiera de las siguientes formas:    
                 .row.justify-content-center.mt-3
                   .col-lg-12
                     .bg12.px-4.brad
@@ -168,7 +169,7 @@
                           .bg13.j.p-2 
                             h3.mb-0.px-1 4                                        
                         .col-lg-11.my-3
-                          p(data-aos="fade-down").mb-0 Pagar el 50% del valor en los cinco días siguientes a la orden de comparendo, siempre y cuando asista a un curso sobre normas de tránsito en un Organismo de Tránsito, Centro de Enseñanza Automovilística o Centro Integral de Atención. Si el curso se realiza ante un organismo de diferente jurisdicción donde se cometió la infracción, a éste se le cancelará un 25% del valor y el excedente, al organismo de tránsito de la jurisdicción donde se cometió la infracción.
+                          p(data-aos="fade-down").mb-0 Pagar el 50 % del valor en los cinco días siguientes a la orden de comparendo, siempre y cuando asista a un curso sobre normas de tránsito en un Organismo de Tránsito, Centro de Enseñanza Automovilística o Centro Integral de Atención. Si el curso se realiza ante un organismo de diferente jurisdicción donde se cometió la infracción, a éste se le cancelará un 25 % del valor y el excedente, al organismo de tránsito de la jurisdicción donde se cometió la infracción.
                 .row.justify-content-center.mt-3
                   .col-lg-12
                     .bg12.px-4.brad
@@ -177,14 +178,16 @@
                           .bg13.j.p-2 
                             h3.mb-0.px-1 5                                       
                         .col-lg-11.my-3
-                          p(data-aos="fade-down").mb-0 Cancelar el 75% del valor en los veinte días siguientes a la orden de comparendo, siempre y cuando asista a un curso sobre normas de tránsito en un Organismo de Tránsito, Centro de Enseñanza Automovilística o Centro Integral de atención.  Si el curso se realiza ante un organismo de diferente jurisdicción donde se cometió la infracción, a este se le pagará un 25% del valor y el excedente al organismo de tránsito de la jurisdicción donde se cometió la infracción.    
+                          p(data-aos="fade-down").mb-0 Cancelar el 75 % del valor en los veinte días siguientes a la orden de comparendo, siempre y cuando asista a un curso sobre normas de tránsito en un Organismo de Tránsito, Centro de Enseñanza Automovilística o Centro Integral de atención.  Si el curso se realiza ante un organismo de diferente jurisdicción donde se cometió la infracción, a este se le pagará un 25 % del valor y el excedente al organismo de tránsito de la jurisdicción donde se cometió la infracción.    
                                                  
 
 </template>
 
 <script>
+import SlyderF from '@/components/SlyderF.vue'
 export default {
   name: 'Tema2',
+  components: { SlyderF },
   data: () => ({
     // variables de vue
   }),
