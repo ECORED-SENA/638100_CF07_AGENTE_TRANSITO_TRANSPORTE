@@ -7,7 +7,7 @@
         span 4
       h1 Inmovilización de vehículos por infracciones al tránsito y al transporte
 
-    p(data-aos="fade-down").mb-5 En el desarrollo de actividades de control de tránsito o del transporte hay un procedimiento que ocasionalmente aplica a ciertas infracciones: la inmovilización, definida como la suspensión temporal de la circulación de un vehículo debiendo ser trasladado al parqueadero autorizado por la autoridad administrativa de la jurisdicción donde se haya cometido la infracción. 
+    p(data-aos="fade-down").mb-5 En el desarrollo de actividades de control de tránsito o del transporte hay un procedimiento que ocasionalmente aplica a ciertas infracciones: la inmovilización, definida como la suspensión temporal de la circulación de un vehículo, debiendo ser trasladado al parqueadero autorizado por la autoridad administrativa de la jurisdicción donde se haya cometido la infracción. 
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-8.my-3

@@ -45,7 +45,7 @@
               span.text-bold 5 
             p.mb-0 Atención de accidentes de tránsito de solo daños materiales o con heridos y muertos, entre otros. 
 
-    p(data-aos="fade-down").mb-5 Uno de los más utilizados es el procedimiento para realizar una infracción de tránsito el cual se encuentra descrito en el Manual de infracciones, capítulo 5, que se presente simplificado en la siguiente tabla: 
+    p(data-aos="fade-down").mb-5 Uno de los más utilizados es el procedimiento para realizar una infracción de tránsito el cual se encuentra descrito en el Manual de infracciones, capítulo 5, que se presenta simplificado en la siguiente tabla: 
 
     .row.justify-content-center.mb-5     
       .col-lg-10(data-aos="fade-down") 

@@ -54,7 +54,7 @@
             p(data-aos="fade-down").mb-0 Siendo así, los requerimientos que se deben realizar de manera preventiva con los presuntos sujetos implicados en los sucesos de tránsito son aquellos que en el trasegar del ámbito laboral del agente sea sorprendido realizando la acción típica establecida en la norma y este de lugar a la imposición de un comparendo.  
       .col-lg-3.my-3.d-none.d-lg-block
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/56.png', alt='')    
-    p(data-aos="fade-down").mb-5 En cualquier caso, a todo implicado en un suceso de contravención al tránsito debe realizársele el procedimiento que se describe a continuación, según el artículo 135 del Código Nacional de Tránsito Terrestre:”, tal como se observa en el diseño instruccional.
+    p(data-aos="fade-down").mb-5 En cualquier caso, a todo implicado en un suceso de contravención al tránsito debe realizársele el procedimiento que se describe a continuación, según el artículo 135 del Código Nacional de Tránsito Terrestre:
 
     .row.bg9.align-items-center.pt-3.mb-4
       .col-lg-12.col-12.px-lg-5.px-4.up
